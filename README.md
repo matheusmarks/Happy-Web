@@ -16,7 +16,7 @@
 <p align="center"><img src="https://github.com/matheusmarks/images/blob/master/nlw-happy/happymap.png"></p>
 
 <h2>How to use</h2>
-<p>First of all, you will need <strong>yarn</strong> or <strong>npm</strong> installed in your machine. In your terminal do the following things: </p>
+<p>First of all, you will need <a href="https://nodejs.org/en/">Node.js</a> and <a href="https://git-scm.com/">Git</a> installed on your machine. In your terminal do the following things: </p>
 
 ```bash
 # Clone this repository
@@ -51,4 +51,4 @@ This app was projected and made by <a href="https://rocketseat.com.br/">Rocketse
 - [EditorConfig](https://editorconfig.org/)
 
 ---
-Feel free to clone the project and if you want to support me check it out my   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/matheus-marques-0558921b4/)](https://www.linkedin.com/in/matheus-marques-0558921b4/)
+Feel free to clone the project and if you want to support me <strong>check out out my</strong> <a href="">LinkedIn</a> and <a href="">GitHub</a>
