@@ -2,7 +2,6 @@
 <h4 align="center">App to search and schedule a visit in orphanages near the reagion that I live in.</h4>
 <p align="center">
   <img alt="top language" src="https://img.shields.io/github/languages/top/matheusmarks/Happy-Web.svg" />
-  <img alt="repository size" src="https://img.shields.io/github/repo-size/matheusmarks/Happy-Web.svg" />
   <img alt="last commit" src="https://img.shields.io/github/last-commit/matheusmarks/Happy-Web.svg" />
 </p>
 
@@ -52,4 +51,5 @@ This app was projected and made by <a href="https://rocketseat.com.br/">Rocketse
 - [EditorConfig](https://editorconfig.org/)
 
 ---
-Feel free to clone the project and if you want to support me check it out my <a href="https://www.linkedin.com/in/matheus-marques-0558921b4/">LinkedIn</a> 
+Feel free to clone the project and if you want to support me check it out my [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/matheus-marques-0558921b4/)](https://www.linkedin.com/in/matheus-marques-0558921b4/)
+<a href="https://www.linkedin.com/in/matheus-marques-0558921b4/">LinkedIn</a> 
