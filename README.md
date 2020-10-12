@@ -51,4 +51,4 @@ This app was projected and made by <a href="https://rocketseat.com.br/">Rocketse
 - [EditorConfig](https://editorconfig.org/)
 
 ---
-Feel free to clone the project and if you want to support me <strong>check out out my</strong> <a href="">LinkedIn</a> and <a href="">GitHub</a>
+Feel free to clone the project and if you want to support me <strong>check out out my <a href="">LinkedIn</a> and <a href="">GitHub</a></strong>
