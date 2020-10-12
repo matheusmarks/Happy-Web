@@ -1,4 +1,3 @@
-<h1 align="center"><img src="https://github.com/matheusmarks/Happy-Web/blob/master/src/images/logo.svg"/></h1>
 <h1 align="center">Happy</h1>
 <h4 align="center">App to search and schedule a visit in orphanages near the reagion that I live in.</h4>
 <p align="center">
